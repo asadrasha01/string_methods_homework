@@ -6,5 +6,5 @@ def main(s):
     Returns:
         str: answer
     """
-    
-    return
+    s = "mobile development"
+    return  s.capitalize()
